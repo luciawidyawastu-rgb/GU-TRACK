@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-label="GU Track">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#1F4D3A"/>
+      <stop offset="1" stop-color="#3F7458"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <circle cx="1010" cy="120" r="280" fill="#FFFFFF" opacity="0.06"/>
+  <circle cx="1100" cy="560" r="160" fill="#BFDDEB" opacity="0.14"/>
+  <g transform="translate(80 90)">
+    <rect width="96" height="96" rx="29" fill="#FAF6EC"/>
+    <path d="M48 18C48 18 70 42 70 56a22 22 0 0 1-44 0C26 42 48 18 48 18z" fill="#1F4D3A"/>
+    <path d="M33 57h8l5-10 7 20 5-10h6" stroke="#FAF6EC" stroke-width="4.5" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="76" cy="22" r="6" fill="#BFDDEB"/>
+  </g>
+  <text x="204" y="162" font-family="Poppins, Inter, Arial, sans-serif" font-size="72" font-weight="700" fill="#FAF6EC">GU<tspan dx="10" fill="#BFD8C0" font-weight="600">Track</tspan></text>
+  <text x="80" y="340" font-family="Poppins, Inter, Arial, sans-serif" font-size="46" font-weight="600" fill="#FAF6EC">Pantau Keluhanmu,</text>
+  <text x="80" y="400" font-family="Poppins, Inter, Arial, sans-serif" font-size="46" font-weight="600" fill="#FAF6EC">Pahami Perjalanan Kesehatanmu.</text>
+  <text x="80" y="480" font-family="Inter, Arial, sans-serif" font-size="26" fill="#BFD8C0">Track Your Symptoms, Understand Your Health Journey.</text>
+  <rect x="80" y="534" width="148" height="38" rx="19" fill="#BFDDEB"/>
+  <text x="154" y="559" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="16" font-weight="600" fill="#1F4D3A">ID · EN</text>
+</svg>

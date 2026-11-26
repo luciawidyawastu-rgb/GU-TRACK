@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="960" viewBox="0 0 800 960" role="img" aria-label="Ilustrasi halaman masuk GU Track">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#1F4D3A"/>
+      <stop offset="1" stop-color="#4F8062"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="960" fill="url(#bg)"/>
+  <circle cx="680" cy="150" r="260" fill="#FFFFFF" opacity="0.06"/>
+  <circle cx="90" cy="820" r="300" fill="#BFDDEB" opacity="0.10"/>
+  <circle cx="620" cy="800" r="110" fill="#FAF6EC" opacity="0.08"/>
+  <g transform="translate(170 200) scale(6)">
+    <path d="M40 4C40 4 70 36 70 54a30 30 0 0 1-60 0C10 36 40 4 40 4z" fill="#FAF6EC"/>
+    <path d="M22 54h11l7-14 10 30 7-16h9" stroke="#1F4D3A" stroke-width="5" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="62" cy="14" r="6" fill="#BFDDEB"/>
+  </g>
+  <g fill="none" stroke="#FAF6EC" stroke-width="3" opacity="0.35" stroke-linecap="round">
+    <path d="M110 700c60-30 120 30 180 0s120 30 180 0 120 30 220 -10"/>
+    <path d="M110 740c60-30 120 30 180 0s120 30 180 0 120 30 220 -10" opacity="0.6"/>
+  </g>
+  <path d="M60 120c50-36 110-20 126 36-52 26-110 8-126-36z" fill="#8FAE8B" opacity="0.55"/>
+  <path d="M600 880c50-30 100-14 112 30-44 20-96 6-112-30z" fill="#8FAE8B" opacity="0.5"/>
+</svg>

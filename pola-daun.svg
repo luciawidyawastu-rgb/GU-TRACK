@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="600" viewBox="0 0 600 600" role="img" aria-label="Pola latar daun">
+  <defs>
+    <pattern id="p" width="200" height="200" patternUnits="userSpaceOnUse">
+      <path d="M30 60c26-20 56-10 62 18-26 14-56 6-62-18z" fill="#8FAE8B" opacity="0.22"/>
+      <path d="M120 150c22-16 48-8 54 16-22 12-48 4-54-16z" fill="#6E9A78" opacity="0.18" transform="rotate(20 147 158)"/>
+      <circle cx="150" cy="44" r="6" fill="#BFDDEB" opacity="0.55"/>
+      <circle cx="52" cy="152" r="4" fill="#BFDDEB" opacity="0.45"/>
+      <path d="M96 100c0 0 8 9 8 15a8 8 0 0 1-16 0c0-6 8-15 8-15z" fill="#8FAE8B" opacity="0.18"/>
+    </pattern>
+  </defs>
+  <rect width="600" height="600" fill="#FAF6EC"/>
+  <rect width="600" height="600" fill="url(#p)"/>
+</svg>

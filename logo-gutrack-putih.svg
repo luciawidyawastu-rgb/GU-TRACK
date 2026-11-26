@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="380" height="96" viewBox="0 0 380 96" role="img" aria-label="GU Track">
+  <g transform="translate(8 8)">
+    <rect width="80" height="80" rx="24" fill="#FAF6EC"/>
+    <path d="M40 16C40 16 58 35 58 46a18 18 0 0 1-36 0C22 35 40 16 40 16z" fill="#1F4D3A"/>
+    <path d="M28 47h7l4-8 6 16 4-8h5" stroke="#FAF6EC" stroke-width="3.5" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="62" cy="20" r="5" fill="#BFDDEB"/>
+  </g>
+  <text x="104" y="56" font-family="Poppins, Inter, 'Segoe UI', Arial, sans-serif" font-size="40" font-weight="700" fill="#FAF6EC">GU<tspan dx="10" fill="#BFD8C0" font-weight="600">Track</tspan></text>
+  <text x="106" y="78" font-family="Inter, 'Segoe UI', Arial, sans-serif" font-size="11" font-weight="600" letter-spacing="1.6" fill="#BFD8C0">PANTAU PERJALANAN KELUHANMU</text>
+</svg>

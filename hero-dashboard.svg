@@ -1,0 +1,79 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="720" viewBox="0 0 1200 720" role="img" aria-label="Ilustrasi dashboard GU Track">
+  <defs>
+    <filter id="s" x="-20%" y="-20%" width="140%" height="150%">
+      <feDropShadow dx="0" dy="14" stdDeviation="16" flood-color="#1F4D3A" flood-opacity="0.16"/>
+    </filter>
+    <linearGradient id="area" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#8FAE8B" stop-opacity="0.45"/>
+      <stop offset="1" stop-color="#8FAE8B" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="720" rx="40" fill="#FAF6EC"/>
+  <circle cx="1010" cy="140" r="240" fill="#DCE8D8"/>
+  <circle cx="170" cy="620" r="220" fill="#E3EFF5"/>
+  <circle cx="990" cy="610" r="90" fill="#BFDDEB" opacity="0.6"/>
+  <path d="M90 150c60-44 130-24 150 44-62 32-130 10-150-44z" fill="#8FAE8B" opacity="0.5"/>
+  <path d="M1040 470c40-30 90-16 104 30-42 22-90 6-104-30z" fill="#6E9A78" opacity="0.45"/>
+
+  <!-- Kartu utama: grafik -->
+  <g filter="url(#s)">
+    <rect x="290" y="130" width="620" height="440" rx="32" fill="#FFFFFF"/>
+  </g>
+  <text x="330" y="190" font-family="Poppins, Inter, Arial, sans-serif" font-size="24" font-weight="700" fill="#1F4D3A">Perjalanan Gejala</text>
+  <rect x="330" y="208" width="72" height="30" rx="15" fill="#1F4D3A"/>
+  <text x="366" y="228" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="600" fill="#FAF6EC">7 hari</text>
+  <rect x="412" y="208" width="78" height="30" rx="15" fill="#E6EFE3"/>
+  <text x="451" y="228" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="600" fill="#1F4D3A">30 hari</text>
+  <rect x="500" y="208" width="78" height="30" rx="15" fill="#E6EFE3"/>
+  <text x="539" y="228" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="600" fill="#1F4D3A">90 hari</text>
+  <g stroke="#EEF1EC" stroke-width="2">
+    <line x1="330" y1="300" x2="870" y2="300"/>
+    <line x1="330" y1="350" x2="870" y2="350"/>
+    <line x1="330" y1="400" x2="870" y2="400"/>
+    <line x1="330" y1="450" x2="870" y2="450"/>
+    <line x1="330" y1="500" x2="870" y2="500"/>
+  </g>
+  <path d="M340 470L400 440L460 455L520 400L580 385L640 410L700 350L760 345L820 315L870 305L870 500L340 500Z" fill="url(#area)"/>
+  <polyline points="340,470 400,440 460,455 520,400 580,385 640,410 700,350 760,345 820,315 870,305" fill="none" stroke="#5E8F6B" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <g fill="#FFFFFF" stroke="#5E8F6B" stroke-width="4">
+    <circle cx="340" cy="470" r="7"/><circle cx="400" cy="440" r="7"/><circle cx="460" cy="455" r="7"/>
+    <circle cx="520" cy="400" r="7"/><circle cx="580" cy="385" r="7"/><circle cx="640" cy="410" r="7"/>
+    <circle cx="760" cy="345" r="7"/><circle cx="820" cy="315" r="7"/><circle cx="870" cy="305" r="7"/>
+  </g>
+  <circle cx="700" cy="350" r="10" fill="#1F4D3A" stroke="#FFFFFF" stroke-width="4"/>
+  <rect x="632" y="284" width="136" height="40" rx="12" fill="#1F4D3A"/>
+  <path d="M700 324l-8 -0h16z" fill="#1F4D3A"/>
+  <text x="700" y="309" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="600" fill="#FAF6EC">12 Nov · skala 4</text>
+  <g font-family="Inter, Arial, sans-serif" font-size="13" fill="#6B7280" text-anchor="middle">
+    <text x="340" y="535">1</text><text x="460" y="535">4</text><text x="580" y="535">7</text><text x="700" y="535">10</text><text x="820" y="535">13</text>
+  </g>
+
+  <!-- Kartu kiri: check-in -->
+  <g filter="url(#s)">
+    <rect x="90" y="330" width="250" height="190" rx="28" fill="#FFFFFF"/>
+  </g>
+  <text x="116" y="372" font-family="Poppins, Inter, Arial, sans-serif" font-size="18" font-weight="700" fill="#1F4D3A">Check-in Hari Ini</text>
+  <text x="116" y="396" font-family="Inter, Arial, sans-serif" font-size="13" fill="#6B7280">Skala keluhan 0–10</text>
+  <g>
+    <circle cx="124" cy="426" r="8" fill="#DCE8D8"/><circle cx="143" cy="426" r="8" fill="#DCE8D8"/>
+    <circle cx="162" cy="426" r="8" fill="#C9DCC6"/><circle cx="181" cy="426" r="10" fill="#1F4D3A"/>
+    <circle cx="200" cy="426" r="8" fill="#B3CDB1"/><circle cx="219" cy="426" r="8" fill="#9FBF9E"/>
+    <circle cx="238" cy="426" r="8" fill="#8FAE8B"/><circle cx="257" cy="426" r="8" fill="#7FA283"/>
+    <circle cx="276" cy="426" r="8" fill="#6E9A78"/><circle cx="295" cy="426" r="8" fill="#5E8F6B"/>
+    <circle cx="314" cy="426" r="8" fill="#4E7F5C"/>
+  </g>
+  <rect x="116" y="462" width="198" height="38" rx="19" fill="#1F4D3A"/>
+  <text x="215" y="487" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="15" font-weight="600" fill="#FAF6EC">Simpan Check-in</text>
+
+  <!-- Kartu kanan: konsultasi -->
+  <g filter="url(#s)">
+    <rect x="860" y="410" width="250" height="170" rx="28" fill="#FFFFFF"/>
+  </g>
+  <rect x="886" y="436" width="46" height="46" rx="14" fill="#E3EFF5"/>
+  <rect x="896" y="448" width="26" height="24" rx="5" fill="none" stroke="#1F4D3A" stroke-width="2.5"/>
+  <path d="M896 457h26M903 444v7M915 444v7" stroke="#1F4D3A" stroke-width="2.5" stroke-linecap="round"/>
+  <text x="944" y="455" font-family="Poppins, Inter, Arial, sans-serif" font-size="16" font-weight="700" fill="#1F4D3A">Konsultasi</text>
+  <text x="944" y="476" font-family="Inter, Arial, sans-serif" font-size="13" fill="#6B7280">Dr. Fiktif · 3 Des</text>
+  <rect x="886" y="508" width="198" height="38" rx="19" fill="#BFDDEB"/>
+  <text x="985" y="533" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="15" font-weight="600" fill="#1F4D3A">Snapshot PDF</text>
+</svg>

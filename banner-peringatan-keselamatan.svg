@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="240" viewBox="0 0 1200 240" role="img" aria-label="Banner peringatan evaluasi medis">
+  <rect width="1200" height="240" rx="32" fill="#FDF0ED"/>
+  <rect x="0" y="0" width="14" height="240" rx="7" fill="#C0392B"/>
+  <circle cx="1090" cy="40" r="150" fill="#F8D9D3" opacity="0.7"/>
+  <circle cx="130" cy="120" r="62" fill="#C0392B"/>
+  <path d="M130 84L172 156H88z" fill="#FFFFFF"/>
+  <path d="M130 108v24" stroke="#C0392B" stroke-width="7" stroke-linecap="round"/>
+  <circle cx="130" cy="144" r="4.5" fill="#C0392B"/>
+  <text x="230" y="102" font-family="Poppins, Inter, Arial, sans-serif" font-size="34" font-weight="700" fill="#7B241C">Segera cari evaluasi medis</text>
+  <text x="230" y="144" font-family="Inter, Arial, sans-serif" font-size="20" fill="#7B241C">Gejala yang Anda catat dapat memerlukan pemeriksaan dokter secepatnya.</text>
+  <text x="230" y="176" font-family="Inter, Arial, sans-serif" font-size="16" fill="#9C4A41">Peringatan ini bukan diagnosis. Hubungi dokter atau kunjungi IGD terdekat.</text>
+</svg>
